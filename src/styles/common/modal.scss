@@ -1,0 +1,22 @@
+
+.modal-content>.modal-header{
+  display: none;
+}
+.modal-content{
+  border-radius: 0px;
+}
+.modal-body{
+  border-radius: 0px;
+}
+.modal-footer{
+  border-radius: 0px;
+  border-top: none;
+}
+.modal-footer .btn-secondary{
+  display: none;
+}
+.modal-footer .btn-primary{
+  border-radius: 0;
+  height: 45px;
+  width: 75px;
+}

@@ -1,0 +1,46 @@
+.content {
+  position: absolute;
+  top: 104px;
+  left: 15%;
+  width: 65%;
+  border-top: 1px solid #E2E5E6;
+}
+.user-infor {
+  align-items: center;
+}
+.accesstime {
+  text-align: end;
+}
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-item.show .nav-link {
+  border: 1px solid #3C64B1 !important;
+  border-radius: 0px;
+  color: #3C64B1;
+  background-color: rgba(60, 100, 177, 0.1) !important;
+}
+.nav-tabs .nav-link {
+  border: 1px solid #E2E5E6;
+  border-radius: 0px;
+  color: #3C64B1;
+
+}
+.card-header-tabs {
+  margin-right: 0px;
+  margin-bottom: 0px;  /* margin-bottom: -0.75rem; */
+  margin-left: 0;
+  border-bottom: 0;
+}
+.card-header{
+  background: transparent;
+  padding: 0;
+}
+.row{
+  margin: 0;
+}
+.col{
+  padding:0;
+}
+.card{
+  border:none;
+}
+

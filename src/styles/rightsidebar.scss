@@ -1,0 +1,40 @@
+
+.right-content {
+  margin-right: 14px;
+  margin-left: 14px;
+  border:none;
+  border-radius: 0;
+}
+.select-option {
+  margin-bottom: 15px;
+  position: relative;
+  border-radius: 0;
+  color: #E2E5E6;
+}
+.select-option label {
+  position: absolute;
+  width: fit-content;
+  pointer-events: none;
+  left: 5px;
+  top: 10px;
+}
+.card-body{
+  padding: 0;
+}
+.custom-select{
+  padding-left: 37%;
+  background-color: transparent;
+  border-radius: 0;
+  color: #737B7D;
+}
+@media (max-width:1024px){
+  .select-option label{
+    display: none;
+  }
+  .custom-select{
+    padding-left: 5px;
+  }
+}
+
+
+

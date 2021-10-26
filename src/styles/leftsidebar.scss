@@ -1,0 +1,15 @@
+.left-side-bar {
+  border-top: 1px solid #E2E5E6;
+  width: 15%;
+  background-color: #fafafa;
+  min-height: calc(100vh - 104px);
+}
+b-nav-item {
+  color: #737b7d;
+}
+b-nav-item-dropdown {
+  background: transparent;
+}
+.dropdown-menu {
+  position: absolute;
+}
